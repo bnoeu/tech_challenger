@@ -38,12 +38,15 @@ Estrutura do JSON enviado:
 
 Estruturação da pasta
 
-tech_challenger
+<p align="center">
 
-index.html      # Página principal do projeto
+📦 **projeto**  
+┣ 📜 *index.html* → Página principal do projeto  
+┣ 🎨 *style.css* → Estilos e layout da aplicação  
+┗ ⚙️ *script.js* → Lógica e integração com o backend  
 
-style.css       # Estilos e layout da aplicação
+</p>
 
-script.js       # Lógica e integração com o backend
+
 
 
